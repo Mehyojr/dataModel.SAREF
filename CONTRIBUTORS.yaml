@@ -1,10 +1,10 @@
 description: This is a compilation list of all CONTRIBUTORS across different objects (data models) alphabetically ordered. All fields are non mandatory
 contributors:
 -
- name:
- surname:
- mail:
- organization:
- project:
- comments:
- year:
+ name: Muhyiddine
+ surname: Jradi
+ mail: mjr@mmmi.sdu.dk
+ organization: University of Southern Denmark
+ project: Twin4Build
+ comments: 
+ year: 2023
